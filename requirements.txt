@@ -23,7 +23,7 @@ Pillow==4.3.0
 prompt-toolkit==1.0.14
 ptyprocess==0.5.2
 pycantonese==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 pylangacq==0.8
 pyparsing==2.2.0
 pyspark==2.1.1+hadoop2.7
